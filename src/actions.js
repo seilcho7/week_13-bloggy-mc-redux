@@ -29,5 +29,5 @@ export function deletePost(id) {
             id
         }
     }
-
 }
+window.deletePost = deletePost;
